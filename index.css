@@ -1,0 +1,62 @@
+    body{
+        background-image: url("image.jpg");
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: italic;
+        background-repeat: no-repeat;
+        background-size:120%;
+        display:grid;
+        grid-template-columns: 10% 90%;
+        
+    }
+    .theme{
+        width:350px;height:400px;
+        margin-left:900px;
+        padding-right:15px;
+        margin-top: 40px;
+        margin-right:5px;
+        margin-left:1100px;
+    }
+    div1,div2{
+        color:rgb(255, 251, 0);
+        font-size:40px;
+        font-style: normal;
+    }
+    div3,div4{
+        color:white;
+        font-size:25px;
+        font-style: normal;
+    }
+    .container{
+        background-color: rgba(241, 120, 7, 0.452);
+        height:400px;
+        width:450px;
+        padding:15px;
+        margin-top: 60px; margin-left: 10px;
+    }
+    h2{
+        font-weight:bold;
+        font-size: 35px;
+        padding-left: 35px;
+    }
+    td{
+        font-weight:bold;
+        font-size: 20px;
+        padding:20px;
+    }
+    input{
+        padding:9px;
+        font-weight:bold;
+        font-size: 20px;
+        border-radius: 25px;
+        background-color: rgba(255, 255, 0, 0.575);
+    }
+    #convert{
+        padding:10px;
+        border-radius: 25px;
+        font-weight:bold;
+        font-size: 20px;
+        width:130px;
+        background-color: rgba(247, 247, 6, 0.699);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: italic;
+    }
